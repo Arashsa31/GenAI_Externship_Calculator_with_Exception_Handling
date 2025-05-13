@@ -1,1 +1,1 @@
-# GenAI_Externship_Calculator_with_Exception_Handling
+This project is a calculator that supports basic arithmetic operations: addition, subtraction, multiplication, and division. It includes exception handling to manage invalid inputs and division by zero errors. The program uses the logging module to record exceptions in an error_log.txt file for debugging. The user interface ensures clear instructions and error messages. This calculator is intended to be run in a terminal or command-line environment.
